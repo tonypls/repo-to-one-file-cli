@@ -1,6 +1,6 @@
 {
   "name": "repo-to-one-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a repository to a single Markdown file",
   "main": "convertRepo.js",
   "bin": {
