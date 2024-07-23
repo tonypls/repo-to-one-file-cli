@@ -4,6 +4,8 @@
 
 repo-to-one-file is a Node.js tool that consolidates repository files into a single Markdown file. It's designed to create a comprehensive overview of a codebase, which can be particularly useful for documentation or as context for large language models.
 
+[Check out the code here, please star <3](https://github.com/tonypls/repo-to-one-file-cli)
+
 ## Features
 
 - Generates a directory structure of the repository
