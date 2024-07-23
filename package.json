@@ -1,0 +1,19 @@
+{
+  "name": "repo-to-one-file",
+  "version": "1.0.0",
+  "description": "Convert a repository to a single Markdown file",
+  "main": "convertRepo.js",
+  "bin": {
+    "repo-to-one-file": "./convertRepo.js"
+  },
+  "scripts": {
+    "start": "node convertRepo.js"
+  },
+  "keywords": [
+    "repository",
+    "markdown",
+    "converter"
+  ],
+  "author": "tonypls",
+  "license": "MIT"
+}
