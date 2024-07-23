@@ -12,8 +12,17 @@
   "keywords": [
     "repository",
     "markdown",
-    "converter"
+    "converter",
+    "AI",
+    "ChatGPT",
+    "OpenAI",
+    "Anthropic",
+    "Claude"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonypls/repo-to-one-file-cli.git"
+  },
   "author": "tonypls",
   "license": "MIT"
 }

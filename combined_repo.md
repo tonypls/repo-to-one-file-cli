@@ -1,11 +1,10 @@
 # Directory Structure
 
 ```
-  combined_repo.md
-  LICENSE
-  convertRepo.js
-  README.md
-  package.json
+LICENSE
+README.md
+convertRepo.js
+package.json
 ```
 
 ## README.md
@@ -16,6 +15,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 repo-to-one-file is a Node.js tool that consolidates repository files into a single Markdown file. It's designed to create a comprehensive overview of a codebase, which can be particularly useful for documentation or as context for large language models.
+
+[Check out the code here, please star <3](https://github.com/tonypls/repo-to-one-file-cli)
 
 ## Features
 
@@ -121,7 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     "repo-to-one-file": "./convertRepo.js"
   },
   "scripts": {
-    "convert": "node convertRepo.js"
+    "start": "node convertRepo.js"
   },
   "keywords": [
     "repository",
