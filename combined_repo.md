@@ -12,6 +12,8 @@ package.json
 ```md
 # repo-to-one-file
 
+[![npm version](https://img.shields.io/npm/v/repo-to-one-file.svg)](https://www.npmjs.com/package/repo-to-one-file)
+[![npm downloads](https://img.shields.io/npm/dm/repo-to-one-file.svg)](https://www.npmjs.com/package/repo-to-one-file)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 repo-to-one-file is a Node.js tool that consolidates repository files into a single Markdown file. It's designed to create a comprehensive overview of a codebase, which can be particularly useful for documentation or as context for large language models.
@@ -115,7 +117,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```json
 {
   "name": "repo-to-one-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a repository to a single Markdown file",
   "main": "convertRepo.js",
   "bin": {
@@ -127,8 +129,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   "keywords": [
     "repository",
     "markdown",
-    "converter"
+    "converter",
+    "AI",
+    "ChatGPT",
+    "OpenAI",
+    "Anthropic",
+    "Claude"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonypls/repo-to-one-file-cli.git"
+  },
   "author": "tonypls",
   "license": "MIT"
 }
